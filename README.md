@@ -1,4 +1,4 @@
-# Pre-work 
+# FLIX
 
 **Tip Calculator** is a tip calculator application for iOS.
 
